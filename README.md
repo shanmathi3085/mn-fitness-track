@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# mn-fitness-track
+
+# NM-fitness-track
 project is done for our naan mudhalavan assesment
 =======
 # AI FitTrack API 🏋️‍♂️🤖
